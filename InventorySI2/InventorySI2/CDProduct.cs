@@ -4,7 +4,8 @@ using System.Text;
 
 namespace InventorySI2
 {
-    class CDProduct
+    class CDProduct : Product
     {
+        
     }
 }

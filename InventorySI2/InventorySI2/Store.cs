@@ -6,5 +6,9 @@ namespace InventorySI2
 {
     class Store
     {
+        string name;
+        int price;
+
+      
     }
 }
